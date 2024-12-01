@@ -1,5 +1,5 @@
-# Hello, I'm John Doe 👋
-- 🔭 I’m currently working on [Project X](https://github.com/example/project-x)
-- 🌱 I’m learning Rust and WebAssembly
+# Hello, I'm Niranjan B S 👋
+- 🔭 I’m currently working as Engineer.
+- 🌱 I’m learning all new things.
 - 💬 Ask me about software architecture and distributed systems
 - ![LeetCode Stats](https://leetcard.jacoblin.cool/Niranjan15)
